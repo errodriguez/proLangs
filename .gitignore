@@ -1,52 +1,28 @@
-# Prerequisites
-*.d
+### macOS
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Icon must end with two \r
+Icon
 
-# Precompiled Headers
-*.gch
-*.pch
+# Thumbnails
+._*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
